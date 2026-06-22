@@ -1,4 +1,4 @@
-# Sistema de Planificación y Optimización - CEYE
+# Sistema de Planificación y Asignación - CEYE
 
 Este repositorio contiene los códigos en Python para la planificación y asignación del personal en la Central de Esterilización y Equipo (CEYE).
 
@@ -70,7 +70,7 @@ Resultados/solucion_final_revisada.xlsx
 
 ### 2. Asignación Mensual
 
-Determina la asignación de días libres y calcula el balance de días acumulados.
+Determina la asignación de días libres y calcula los días acumulados.
 
 **Comando:**
 
